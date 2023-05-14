@@ -1,2 +1,3 @@
 # action-di-template
-A template for a custom GitHub Action which utilizes TypeScript and Dependency Injection
+
+Please refer to my [workflow-toggle](https://github.com/stephenMP/workflow-toggle/) action for a real project which can be used as a template for building custom Node GitHub Actions using TypeScript and Dependency Injection :)
